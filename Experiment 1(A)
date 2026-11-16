@@ -1,0 +1,13 @@
+#include <stdio.h>
+int main() {
+// \n = New line, \t = Horizontal tab, \" = Double quotes
+printf("========================================\n");
+printf("\t STUDENT PROFILE CARD\n");
+printf("========================================\n");
+printf("Name\t\t:\tRehan Mistry\n");
+printf("Course\t\t:\tB.Tech Artifical Intelligence And Data Science\n");
+printf("Roll No.\t:\t261A052\n");
+printf("Quote\t\t:\t\"Keep learning, keep growing!\"\n");
+printf("========================================\n");
+return 0;s
+}
